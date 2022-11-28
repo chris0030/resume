@@ -1,0 +1,180 @@
+# Chris Weaver's Resume
+
+This resume is auto-generated from a markdown file at 
+https://github.com/chris0030/resume 
+
+Please check the latest release for the most update resume.
+
+## Contact Details
+
++447521959624
+
+chris0030@pm.me
+
+North Wales
+
+## Profile
+
+Experienced and passionate DevOps Engineer with extensive senior/lead
+experience working with teams to build efficient, automatable, and secure
+cloud native infrastructure. Highly experienced in Python and Bash scripting 
+and a driven self-learner.
+
+## Employment History
+
+### Distributed - Lead Software Architect
+#### August 2022 - Present
+
+Designed the architecture for infrastructure and oversaw a seven person tech 
+team implementing a suite of internal and external tools to help Distributed 
+manage their pool of Elastic Team Members, job opportunities, and projects.
+
+#### Responsibilities
+
+* Discover and design infrastructure and software for internal suite of apps
+* Manage and oversee a nine person team of developers
+* Sit on Security Council to ensure secure practices are followed company wide
+
+#### Technologies
+
+* AWS/Azure
+* Elastic Container Service
+* Docker
+* Grafana
+* Prometheus
+* Github Actions
+* Fastlane
+* Azure
+
+### Co-Operative Bank - Lead DevOps Engineer
+#### January 2022 - August 2022
+
+Oversaw a team of DevOps engineers maintaining and improving Co-Operative Bank's
+mobile application infrastructure. Worked closely with development teams to 
+improve developer experience, and designed and implemented CI/CD workflows to
+help security, stability, and efficiency of deployment.
+
+#### Responsibilities
+
+* Oversee team of DevOps Engineers
+* Implement CI/CD best practices to automate deployment of Kubernetes clusters
+* Implement framework to homogenise deployment environments from development to production
+* Maintain and monitor observability stack
+
+#### Technologies
+
+* IBM Cloud / Azure
+* Gitlab CI/CD
+* Kubernetes
+* Terraform
+* Docker
+* Bash 
+* IBM IKS (managed Kubernetes)
+* Prometheus/Grafana
+
+### Mobilized Construction - Senior DevOps Engineer
+#### April 2021 - January 2022
+
+Worked closely with data science team to support machine learning operations. 
+Implemented a full system for deploying and tracking android devices used as 
+seismographic sensors for road analysis. Implemented dashboards to expose useful
+data for CEO and tech team.
+
+#### Responsibilities
+
+* Implement and maintain full infrastructure stack in AWS
+* Implement CI/CD pipelines for automation
+* Monitor and maintain infrastructure for MLOps
+* Deployed and maintained observability stack
+
+#### Technologies
+
+* Kubernetes
+* Kops
+* Gitlab CI/CD
+* Docker
+* Python
+* AWS
+* ELK Stack/Grafana
+* GCP
+
+### AppCheck Ltd - Operations Engineer / Python Developer
+#### February 2019 - April 2021
+
+Worked as one of the founding operation team members to deploy centralized
+logging, automated deployment of security scanning applications into 
+customer networks, and a dashboard and configuration suite to enable customers
+to work close with AppCheck to scan and secure their estates.
+
+#### Responsibilities
+
+* Wrote software for automated vulnerability scanning
+* Oversaw automated deployment of scanners into customer infrastructure
+* Implemented automation technologies to support the above
+* Designed and implemented centralised logging and monitoring
+
+#### Technologies
+
+* Python
+* Packer
+* Gitlab CI/CD
+* Graylog/Grafana/Prometheus
+* Docker
+* Terraform
+
+### Helper - Technical Co-Founder
+#### July 2018 - February 2019 
+
+Joined Helper as technical co-found to coordinate and build their
+application to help vulnerable people requiring care to find carers, 
+and enable carers to quickly and securely onboard and start helping
+others.
+
+#### Responsibilities
+
+* Oversaw all technical decisions
+* Wrote and deployed a full software stack for healthcare management
+* Implemented CI/CD and observability
+
+#### Technologies
+
+* Python
+* Django
+* Gitlab CI/CD
+* Docker
+* ELK Stack
+
+### Common Grind | Facebook HQ - Director of Operations
+#### June 2015 - July 2017
+
+Co-owned Common Grind and conceptualized and implemented a high tech
+coffee bar in Facebook London with a brief to integrate closely with
+Facebook systems. Wrote a deployed a system that enable Facebook employees
+to order from their desks, pay using their employee badges via a credit 
+system, and reduced queue time and employee downtime by improving systems
+and workflows.
+
+#### Responsibilities
+
+* Oversaw all day to day runnings of high tech concept coffee bar 
+  in Facebook headquarters, London
+* Designed and implemented Point-of-sale system in Python
+* Integrated POS with Facebook Messenger for remote ordering and payment
+* Designed and implemented stock and inventory system, integrated with POS
+* Oversaw all infrastructure and deployment of above systems
+
+#### Technologies
+
+* Python
+* Django
+* docker-compose
+* Facebook messenger bots
+
+## Hobbies and Interests
+
+* 3d printing and "making"
+* Amateur radio
+* Woodworking
+* Climbing
+* Mountain Biking
+* Aviation
